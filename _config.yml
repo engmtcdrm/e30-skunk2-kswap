@@ -1,0 +1,9 @@
+remote_theme: jekyll/minima
+title: E30 Skunk2 74mm B Series Throttle Body Install
+description: Step by step guide to installing a Skunk 2 74mm B Series Throttle Body on an E30
+
+minima:
+  skin: dark
+
+header_pages:
+- throttle-cable-info.md
