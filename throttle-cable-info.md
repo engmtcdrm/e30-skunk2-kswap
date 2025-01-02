@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Throttle Cable Info"
+---
+
 Below contains information on the throttle cables used when installing the skunk2 throttle body.
 
 ## Honda Throttle Cable
