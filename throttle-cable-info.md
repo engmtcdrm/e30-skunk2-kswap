@@ -1,5 +1,3 @@
-# Throttle Cable Info
-
 ## Honda Throttle Cable
 
 The honda throttle cable does not contain any sheeting

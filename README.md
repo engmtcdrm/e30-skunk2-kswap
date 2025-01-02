@@ -1,5 +1,3 @@
-# E30 Skunk2 74mm B Series Throttle Body Install
-
 Generally speak, most e30 kswaps utilize the KPower Industries Throttle Body (TB). However, there have been issues that people have run into while using this throttle body.
 
 1. Hard initial engagement which leads to drivability issues from a standstill
