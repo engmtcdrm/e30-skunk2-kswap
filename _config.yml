@@ -6,5 +6,5 @@ minima:
   skin: dark
 
 header_pages:
-- throttle-cable-info.md
-- crimping-compression-sleeves.md
+  - throttle-cable-info.md
+  - crimping-compression-sleeves.md
