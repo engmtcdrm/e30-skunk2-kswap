@@ -1,3 +1,5 @@
+# Overview
+
 Generally speak, most e30 kswaps utilize the KPower Industries Throttle Body (TB). However, there have been issues that people have run into while using this throttle body.
 
 1. Hard initial engagement which leads to drivability issues from a standstill
@@ -20,4 +22,39 @@ People have suggested using the skunk2 TB instead, however it isn't as simple as
 
 ## Install Steps
 
-1. Remove KPower Industries throttle body
+There are five sections below braking down the operations needed for this conversion. They're broken down this way for easier consumption.
+
+1. Engine Preparation
+2. BMW Throttle Cable Modification
+3. Honda Throttle Cable Modification
+4. Compression Sleeve Modification
+5. Crimping Throttle Cables Together
+
+### Engine Preparation
+
+1. Remove TPS connector from TPS.
+2. Remove existing throttle cable from KPower Industries throttle body.
+3. Remove KPower Industries throttle body.
+4. Loosen the lock nuts that attach the throttle cable to the KPower Industries intake manifold.
+5. Remove the throttle cable bracket, the bracket that holds the throttle cable to the intake manifold, from the intake manifold. It is two 10 mm bolts.
+6. Turn the throttle cable bracket 180 degrees start threading the bolts and then proceed to push the bracket as far back as possible to the firewall. Torque bolts to 8.7ft/lbs.
+7. Install skunk2 throttle body w/TPS. Torque bolts to 16ft/lbs.
+8. Attach TPS connector to TPS.
+
+### BMW Throttle Cable Modification
+
+1. Cut the ferule off the throttle side of the throttle cable. Do this at the bottom of the ferule so there is plenty of length.
+2. Remove throttle barrel. This can be disgarded.
+
+### Honda Throttle Cable Modification
+
+1. Cut pedal end of cable off so cable can be pulled through sheething.
+2. Trim down so there is enough lenth that the cable will reach up to the windshield. This can be determined by installing it onto the skunk2 throttle body. We will trim down the excess after crimping.
+
+### Compression Sleeve Modification
+
+WIP
+
+### Crimping Throttle Cables Together
+
+Once both pedals have been prepared we can begin the crimping process.
